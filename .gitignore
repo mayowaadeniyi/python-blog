@@ -7,4 +7,3 @@ db.sqlite3
 /static
 .DS_Store
 .idea
-python_intro.py
